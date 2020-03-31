@@ -1,0 +1,2 @@
+Server=com.guardian.gameserver.powerpak.xmlrpc.Server
+Management=com.guardian.gameserver.powerpak.xmlrpc.Management
