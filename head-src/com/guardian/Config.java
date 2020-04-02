@@ -427,9 +427,11 @@ public final class Config
 			DATABASE_POOL_TYPE = serverSettings.getProperty("DatabasePoolType", "c3p0");
 			DATABASE_DRIVER = serverSettings.getProperty("Driver", "com.mysql.jdbc.Driver");
 			
-			GAMESERVER_DB = serverSettings.getProperty("GameserverDB", "gameserver_beta");
-			LOGINSERVER_DB = serverSettings.getProperty("LoginserverDB", "loginserver_beta");
-			
+			GAMESERVER_DB = serverSettings.getProperty("GameserverDB", "l2jdb");
+//			GAMESERVER_DB = serverSettings.getProperty("GameserverDB", "gameserver_beta");
+			LOGINSERVER_DB = serverSettings.getProperty("LoginserverDB", "l2jdb");
+//			LOGINSERVER_DB = serverSettings.getProperty("LoginserverDB", "loginserver_beta");
+
 			final String DATABASE_URL_BASE = serverSettings.getProperty("URL", "jdbc:mysql://localhost/");
 			DATABASE_URL = DATABASE_URL_BASE + GAMESERVER_DB;
 			

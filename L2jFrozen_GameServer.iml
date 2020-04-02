@@ -53,7 +53,7 @@
       <sourceFolder url="file://$MODULE_DIR$/head-src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
       <library name="bsh-2.0b5.jar">
         <CLASSES>
@@ -423,5 +423,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="voteSystemAPI" level="project" />
+    <orderEntry type="library" name="uMad" level="project" />
   </component>
 </module>

@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="uMad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bonecp-0.7.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bsh-2.0b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bsh-engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ecj-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-collect-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/irclib-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javolution-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jython.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mchange-commons-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.15-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/voteSystemAPI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ws-commons-util-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlrpc-client-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlrpc-common-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlrpc-server-3.1.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/uMad" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/uMad" recursive="false" />
+  </library>
+</component>
