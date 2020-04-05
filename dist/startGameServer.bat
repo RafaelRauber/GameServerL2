@@ -1,7 +1,7 @@
 @echo off
 color 3
 title L2Guardian: Game Server Console
-mode con: cols=140
+mode con: cols=140 lines=40
 :start
 echo Starting L2Guardian Core Game Server.
 echo Forum: http://www.l2jbrasil.com
